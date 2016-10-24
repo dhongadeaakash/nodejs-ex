@@ -1,2 +1,2 @@
 # PDFChecker
-A Nodejs Application with Mongodb server
+A Nodejs Application with Mongodb database
